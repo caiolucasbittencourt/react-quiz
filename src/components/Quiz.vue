@@ -471,7 +471,7 @@ onMounted(startTimer);
 }
 .question {
   color: var(--text-primary);
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: 700;
   margin-bottom: 3rem;
   line-height: 1.3;
@@ -480,7 +480,7 @@ onMounted(startTimer);
 .options {
   display: flex;
   flex-direction: column;
-  gap: 1.25rem;
+  gap: 1rem;
   max-width: 800px;
   margin: 0 auto;
 }
