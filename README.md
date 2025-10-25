@@ -20,3 +20,11 @@ Um quiz sobre React, mas com um plot twist: foi feito inteiramente em **Vue.js**
 - **JavaScript:** Utilizado para toda a lógica do quiz, incluindo gerenciamento de estado, tempo e pontuação.
 - **Vite:** Utilizado como a ferramenta de build e servidor de desenvolvimento, garantindo uma experiência de desenvolvimento extremamente rápida com Hot Module Replacement (HMR).
 - **HTML5 & CSS3:** Para a estruturação e estilização do componente, incluindo o uso de variáveis CSS para um tema coeso e animações para as interações.
+
+## Instalação
+
+```bash
+git clone https://github.com/caiolucasbittencourt/react-quiz
+cd react-quiz
+npm install
+npm run dev
